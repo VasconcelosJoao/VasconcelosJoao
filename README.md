@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Inteligeo](https://wiki.ditec.pf.gov.br/wiki/Inteligeo)
 
-- 👨‍💻 All of my projects are available at [Portifólio](https://vasconcelosjoao.github.io/Land-Page/)
+- 👨‍💻 All of my projects are available at [Portifólio](https://vasconcelosjoao.github.io/Landing-Page/)
 
 - 📫 How to reach me **joao.brasilpv@gmail.com**
 
