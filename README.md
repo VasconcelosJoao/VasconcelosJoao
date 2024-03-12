@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋🏼 My name is João Lucas Pinto Vasconcelos</h1>
-<h3 align="center">I am currently a fourth-year software engineering student at the University of Brasília (UnB). Additionally, I hold a degree in Big Data and Analytics Intelligence from the Instituto de Educação Superior de Brasília (IESB). Over the past three years, I have gained valuable experience working as an intern on the Inteligeo project at the Federal Police. My passion lies in leveraging technology to solve complex problems, and I am particularly interested in pursuing a career as a software engineer.</h3>
+<p align="center">I am currently a fourth-year software engineering student at the University of Brasília (UnB). Additionally, I hold a degree in Big Data and Analytics Intelligence from the Instituto de Educação Superior de Brasília (IESB). Over the past three years, I have gained valuable experience working as an intern on the Inteligeo project at the Federal Police. My passion lies in leveraging technology to solve complex problems, and I am particularly interested in pursuing a career as a software engineer.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasconcelosjoao&label=Profile%20views&color=0e75b6&style=flat" alt="vasconcelosjoao" /> </p>
 
