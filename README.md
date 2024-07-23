@@ -4,9 +4,6 @@
     I am currently a fourth-year software engineering student at the University of Brasília (UnB). Additionally, I hold a degree in Big Data and Analytics Intelligence from the Instituto de Educação Superior de Brasília (IESB). Over the past three years, I have gained valuable experience working as an intern on the Inteligeo project at the Federal Police. My passion lies in leveraging technology to solve complex problems, and I am particularly interested in pursuing a career as a software engineer.
 </p>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=vasconcelosjoao&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -14,21 +11,27 @@
     </a>
 </p>
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=vasconcelosjoao&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 <h3 align="center">Current Work</h3>
 <p align="center">🔭 I’m currently working on <a href="https://wiki.ditec.pf.gov.br/wiki/Inteligeo">Inteligeo</a></p>
 
 <h3 align="center">Portfolio</h3>
-<p align="center">👨‍💻 All of my projects are available at <a href="https://vasconcelosjoao.github.io/Landing-Page/">Portifólio</a></p>
+<p align="center">👨‍💻 All of my projects are available at <a href="https://vasconcelosjoao.github.io/Landing-Page/">Portfolio</a></p>
 
 <h3 align="center">Contact Me</h3>
 <p align="center">📫 How to reach me: <strong>joao.brasilpv@gmail.com</strong></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <!-- Add links to your social media or professional profiles here -->
+    <a href="https://www.linkedin.com/in/jo%C3%A3olucasvas/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="100" height="auto" />
+    </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Tools and Frameworks:</h3>
 
 <h4 align="center">Frontend:</h4>
 <p align="center">
@@ -86,9 +89,6 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-    </a>
 </p>
 
 <h4 align="center">Other Languages:</h4>
@@ -108,14 +108,12 @@
 </p>
 
 
+<h3 align="center">GitHub Contributions:</h4>
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vasconcelosjoao&show_icons=true&locale=en&layout=compact" alt="Top languages" />
 </p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vasconcelosjoao&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vasconcelosjoao&" alt="Streak stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=vasconcelosjoao&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
