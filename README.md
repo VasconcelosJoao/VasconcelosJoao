@@ -26,7 +26,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://www.linkedin.com/in/jo%C3%A3olucasvas/" target="_blank" rel="noreferrer">
+    <a href="https://www.linkedin.com/in/vasconcelosjoao" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="100" height="auto" />
     </a>
 </p>
