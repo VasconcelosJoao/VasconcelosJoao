@@ -1,8 +1,5 @@
 <h1 align="center"><strong>João Lucas Pinto Vasconcelos</strong></h1>
 
-<h2 align="center"><strong>Sobre</strong></h2>
-
-
 Atualmente, sou estudante do quarto ano de **Engenharia de Software** na **Universidade de Brasília** (**UnB**). Desde o início da minha jornada acadêmica, desenvolvi uma profunda paixão por tecnologia e inovação, o que me levou a explorar diversas áreas dentro do campo da **engenharia de software**. Além disso, possuo um diploma em **Big Data e Inteligência Analítica** pelo **Instituto de Educação Superior de Brasília** (**IESB**), onde aprendi a importância da análise de dados na tomada de decisões estratégicas.
 
 No último ano, tive a oportunidade de trabalhar como estagiário no projeto **Inteligeo** da **Polícia Federal**, onde fui exposto a desafios reais e complexos. Essa experiência me permitiu aplicar meus conhecimentos teóricos em um ambiente prático, aprimorando minhas habilidades em desenvolvimento de software, análise de dados e colaboração em equipe. Aprendi a importância de uma comunicação eficaz e do trabalho em equipe para o sucesso de projetos tecnológicos.
