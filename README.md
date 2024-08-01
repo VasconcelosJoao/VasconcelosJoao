@@ -35,7 +35,7 @@ Meu perfil no GitHub apresenta um registro das contribuições em projetos pesso
 
 <h2 align="center"><strong>Meios de Contato</strong></h2>
 
-<p align="center"><strong>Portifólio: </strong><a href="https://vasconcelosjoao.github.io/Landing-Page/">Portfolio</a></p>
+<p align="center"><strong>Portifólio: </strong><a href="https://vasconcelosjoao.github.io/Portfolio/">Portfolio</a></p>
 
 
 <p align="center"><strong>Linkedin: </strong>
