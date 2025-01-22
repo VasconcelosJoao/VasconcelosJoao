@@ -18,7 +18,6 @@ Minha paixão reside em utilizar a tecnologia para resolver problemas complexos 
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vasconcelosjoao&" alt="Streak stats" width="370" height="auto"/>
     <img src="https://github-readme-stats.vercel.app/api?username=vasconcelosjoao&show_icons=true&locale=en" alt="GitHub Stats" width="350" height="auto"/>
 </p>
 
