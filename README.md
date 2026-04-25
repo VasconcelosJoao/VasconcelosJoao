@@ -100,10 +100,12 @@ This research focuses on investigating computational strategies to support the i
 </p>
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=VasconcelosJoao&theme=flat&no-frame=true&no-bg=true&margin-w=8"
-    alt="GitHub Profile Trophy"
-  />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=VasconcelosJoao&theme=flat&no-frame=true&margin-w=10&margin-h=10"
+      alt="GitHub Profile Trophy"
+    />
+  </a>
 </p>
 
 ---
